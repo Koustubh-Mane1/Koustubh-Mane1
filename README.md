@@ -1,6 +1,6 @@
 # Koustubh Mane
 **`FullStack Developer and Problem Solver`**
-I am a FullStack Developer who loves to create new Creative Projects and Problem Solving. I am an experienced Developer, and till now all my projects are made from the ground up by myself which involves the planning the design and implementing it in code along with solving real world problems with code. My near future goals are to start contributing to Open Source Projects.
+<p>I am a FullStack Developer who loves to create new Creative Projects and Problem Solving. I am an experienced Developer, and till now all my projects are made from the ground up by myself which involves the planning the design and implementing it in code along with solving real world problems with code. My near future goals are to start contributing to Open Source Projects.</p>
 
 
 
