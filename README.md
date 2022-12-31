@@ -32,9 +32,7 @@ Feel free to connect with me here:</p>
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=flat-square&logo=javascript)]()
 
 
-
-#
-## ⚡ Domains:
+### ⚡ Domains:
 - Development
 - Blockchain
 - Competitive Programming
