@@ -31,9 +31,9 @@ Feel free to connect with me here:</p>
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=flat-square&logo=ethereum)]()
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=flat-square&logo=javascript)]()
 
-<br />
 
 
+#
 ## ⚡ Domains:
 - Development
 - Blockchain
