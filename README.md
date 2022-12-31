@@ -33,11 +33,13 @@ Feel free to connect with me here:</p>
 
 <br />
 
+
 ## ⚡ Domains:
 - Development
 - Blockchain
 - Competitive Programming
-
+ 
+<br /> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustubh-Mane1&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
 </a>
