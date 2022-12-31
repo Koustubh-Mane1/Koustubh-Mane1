@@ -8,7 +8,7 @@ Connect with me on Linkedin.</p>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koustubh-mane-928264209/)](https://www.linkedin.com/in/koustubh-mane-928264209/)
+[![Linkedin Badge](https://img.shields.io/badge/-Koustubh Mane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koustubh-mane-928264209/)](https://www.linkedin.com/in/koustubh-mane-928264209/)
 
 ## ⚡ Domains:
 - Development
