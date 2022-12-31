@@ -28,9 +28,8 @@ Feel free to connect with me here:</p>
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-[![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
-[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
-[![Hyperledger](https://img.shields.io/badge/-Hyperledger-7d00ff?style=for-the-badge&logo=linux-foundation&logoColor=white)]()
+[![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=flat-square&logo=ethereum)]()
+[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=flat-square&logo=javascript)]()
 
 <br />
 
