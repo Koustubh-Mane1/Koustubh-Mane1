@@ -9,6 +9,7 @@ Connect with me on Linkedin.</p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Koustubh_Mane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koustubh-mane-928264209/)](https://www.linkedin.com/in/koustubh-mane-928264209/)
+[![Gmail Badge](https://img.shields.io/badge/-koustubhmane4501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koustubhmane4501@gmail.com)](mailto:koustubhmane4501@gmail.com)
 
 ## ⚡ Domains:
 - Development
