@@ -40,15 +40,7 @@ I have good experience with Blockchain, Ethereum, Solidity, Smart Contract, DEFI
 - Development 
 - Competitive Programming
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustubh-Mane1&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Koustubh-Mane1&show_icons=true&count_private=true" />
-</a>
 
-
-<hr/>
 ### My Portfolio:
 
 <table>
@@ -83,6 +75,13 @@ I have good experience with Blockchain, Ethereum, Solidity, Smart Contract, DEFI
         </td>                
     </tr>
 </table>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustubh-Mane1&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Koustubh-Mane1&show_icons=true&count_private=true" />
+</a>
 
 
 <!--
