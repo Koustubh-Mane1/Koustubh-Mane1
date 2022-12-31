@@ -35,9 +35,9 @@ Feel free to connect with me here:</p>
 <hr/>
 
 ### ⚡ Domains:
-- Blockchain
-- Development 
-- Competitive Programming
+- Blockchain - I have good experience with Blockchain, Bitcoin, Ethereum, Solidity, Yield Farming, Smart Contract, NFT marketplace, and Exchange site.
+- Development - I have rich experience with the latest Javascript frameworks such as Node/Express, React and Next.
+- Competitive Programming - I Regularly Participate in Contests on Codeforces and LeetCode.
 
 
 <hr/>
@@ -76,6 +76,8 @@ Feel free to connect with me here:</p>
         </td>                
     </tr>
 </table>
+
+<hr/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustubh-Mane1&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
