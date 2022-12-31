@@ -40,10 +40,10 @@ Feel free to connect with me here:</p>
 - Competitive Programming
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustubh-Mane1&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustubh-Mane1&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Koustubh-Mane1&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Koustubh-Mane1&show_icons=true&count_private=true" />
 </a>
 
 
