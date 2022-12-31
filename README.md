@@ -11,7 +11,7 @@ Feel free to connect with me here:</p>
 [![Linkedin Badge](https://img.shields.io/badge/-Koustubh_Mane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koustubh-mane-928264209/)](https://www.linkedin.com/in/koustubh-mane-928264209/)
 [![Gmail Badge](https://img.shields.io/badge/-koustubhmane4501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koustubhmane4501@gmail.com)](mailto:koustubhmane4501@gmail.com)
 
-
+<br/>
 
 ### 🧰 Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -32,9 +32,10 @@ Feel free to connect with me here:</p>
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=flat-square&logo=javascript)]()
 
 
+<br/>
 ### ⚡ Domains:
-- Development
 - Blockchain
+- Development
 - Competitive Programming
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
