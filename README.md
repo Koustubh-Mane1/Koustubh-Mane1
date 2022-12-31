@@ -1,8 +1,8 @@
 # Koustubh Mane
 **`FullStack Developer and Web3 Enthusiast`**
-<p>I am a FullStack Developer currently in my 3rd Year of Engineering from IIT BHU. I love to explore new technologies and learn more about them. 
+<p>I am a FullStack Developer currently in my 3rd Year of Engineering from IIT BHU. I love to explore new technologies and learn more about them. Always open to collaborating on projects and innovative/disruptive ideas.
 
-Connect with me on Linkedin.</p>
+Feel free to connect with me here:</p>
 
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
