@@ -33,6 +33,7 @@ Feel free to connect with me here:</p>
 
 
 <hr/>
+
 ### ⚡ Domains:
 - Blockchain
 - Development
