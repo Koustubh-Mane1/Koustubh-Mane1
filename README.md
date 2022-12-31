@@ -35,11 +35,12 @@ Feel free to connect with me here:</p>
 <hr/>
 
 ### ⚡ Domains:
-##Blockchain
-I have good experience with Blockchain, Ethereum, Solidity, Smart Contract, DEFI and NFT marketplace. 
+- Blockchain
 - Development 
 - Competitive Programming
 
+
+<hr/>
 
 ### My Portfolio:
 
