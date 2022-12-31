@@ -62,11 +62,7 @@ Feel free to connect with me here:</p>
                 <img src="https://raw.githubusercontent.com/super0326/super0326/main/Portfolio/fortcake.png" width="200">
             </a>
         </td> 
-        <td>
-            <a href="https://app.olympusdao.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/super0326/super0326/main/Portfolio/olympus.png" width="200">
-            </a>
-        </td>
+       
         <td>
             <a href="https://apx.finance/" target="_blank">
                 <img src="https://raw.githubusercontent.com/super0326/super0326/main/Portfolio/apex.png" width="200">
