@@ -11,9 +11,9 @@ Feel free to connect with me here:</p>
 [![Linkedin Badge](https://img.shields.io/badge/-Koustubh_Mane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koustubh-mane-928264209/)](https://www.linkedin.com/in/koustubh-mane-928264209/)
 [![Gmail Badge](https://img.shields.io/badge/-koustubhmane4501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koustubhmane4501@gmail.com)](mailto:koustubhmane4501@gmail.com)
 
-<hr/>
+<br />
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -31,18 +31,16 @@ Feel free to connect with me here:</p>
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=flat-square&logo=ethereum)]()
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=flat-square&logo=javascript)]()
 
+<br />
 
-<hr/>
-
-### ⚡ Domains:
+## ⚡ Domains:
 - Blockchain - I have good experience with Blockchain, Bitcoin, Ethereum, Solidity, Yield Farming, Smart Contract, NFT marketplace, and Exchange site.
 - Development - I have rich experience with the latest Javascript frameworks such as Node/Express, React and Next.
 - Competitive Programming - I Regularly Participate in Contests on Codeforces and LeetCode.
 
+<br />
 
-<hr/>
-
-### My Portfolio:
+## My Portfolio:
 
 <table>
     <thead align="center">
@@ -77,7 +75,7 @@ Feel free to connect with me here:</p>
     </tr>
 </table>
 
-<hr/>
+<br /><br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustubh-Mane1&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
