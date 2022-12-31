@@ -1,6 +1,19 @@
 # Koustubh Mane
-**`FullStack Developer and Problem Solver`**
-<p>I am a FullStack Developer who loves to create new Creative Projects and Problem Solving. I am an experienced Developer, and till now all my projects are made from the ground up by myself which involves the planning the design and implementing it in code along with solving real world problems with code. My near future goals are to start contributing to Open Source Projects.</p>
+**`FullStack Developer and Web3 Enthusiast`**
+<p>I am a FullStack Developer currently in my 3rd Year of Engineering from IIT BHU. I love to explore new technologies and learn more about them. 
+
+Connect with me on Linkedin.</p>
+
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koustubh-mane-928264209/)](https://www.linkedin.com/in/koustubh-mane-928264209/)
+
+## ⚡ Domains:
+- Development
+- Blockchain
+- Competitive Programming
 
 
 
