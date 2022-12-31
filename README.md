@@ -47,7 +47,6 @@ Feel free to connect with me here:</p>
         <tr>
             <td>InstantXRP</td>
             <td>FortCake</td>           
-            
             <td>ApexFinance</td>
         </tr>
     </thead>
